@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 
 root = tk.Tk()
 root.geometry("980x552")
-root.title("Capybara Clicker")
+root.title("Gay Clicker")
 
 image = Image.open("capybara.png")
 resized_image = image.resize((50, 50))
