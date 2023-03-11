@@ -37,7 +37,7 @@ check_version()
 
 root = tk.Tk()
 root.geometry("980x552")
-root.title("Capybara Clickerr")
+root.title("Gay Clickerr")
 
 image = Image.open("capybara.png")
 resized_image = image.resize((50, 50))
