@@ -9,7 +9,7 @@ from PIL import Image, ImageTk
 import github3
 import shutil
 
-__version__ = "4.0.0"  # Exemple de version
+__version__ = "5.0.0"  # Exemple de version
 
 # Fonction pour extraire le contenu d'une archive zip en mémoire
 def extract_zipfile(zip_bytes):
